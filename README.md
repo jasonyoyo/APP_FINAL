@@ -1,11 +1,11 @@
 # POLab
-list of tools
-## list of tool
+
+## list of tool 
 google map
 
-##platform
+## platform
 Android studio Nexus 5 API 26
 
-##contributions
-Jason 50%
+## contributions
+Jason 50%<br>
 Kevin 50%
